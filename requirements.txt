@@ -1,0 +1,5 @@
+keyboard==0.13.5
+Pillow==9.4.0
+pygame==2.1.2
+pystray==0.19.4
+pywin32==305
