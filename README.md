@@ -7,7 +7,7 @@ An autoclicker I made in Python. It has all the necessary features and even a da
 </details>
 
 <details>
-    <summary>Light theme</summary>
+    <summary>Dark theme</summary>
     <img src="./images/dark_theme.png"></img>
 </details>
 
